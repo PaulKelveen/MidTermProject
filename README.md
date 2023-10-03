@@ -3,8 +3,8 @@
 ## Authors:  
 
 - **Nico San Pedro**
-- **Paul Abah**
-- **Leo Fonseca (me)**
+- **Paul Abah (me)**
+- **Leo Fonseca**
 
 ## Dataset file: [MMDA_TrafficIncidents_Tab.xlsx](https://github.com/leoaugusto1976/Midterm_Project/blob/main/data/MMDA_TrafficIncidents_Tab.xlsx)
 
